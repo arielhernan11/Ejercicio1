@@ -18,7 +18,7 @@ class Persona
 		
 		public override String ToString()
 		{
-			return "nombre: "+nombre+" \napellido: "+apellido+" \nedad: "+edad+" \ntelefono: "+telefono;
+			return "Nombre: "+nombre+" \nApellido: "+apellido+" \nEdad: "+edad+" \nTelefono: "+telefono;
 		}
 	
 	}
